@@ -1,4 +1,4 @@
-# xPath-Selenium
+#Automation github Task using Selenium Locator
 
 This is a basic automation script on Selise club login portal. Used xPath to locate the elements here.
 
